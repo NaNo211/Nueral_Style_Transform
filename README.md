@@ -30,7 +30,7 @@
 <img src="https://miro.medium.com/max/1400/1*NNifzsJ7tD2kAfBXt3AzEg.png" width="500" height="500" />
 
 ## dataset:
-### it's from [best artwork all time](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time=250x250) 
+### dataset it's from kaggle [best artwork all time](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time=250x250) 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52aVMnLFT-EF2JZUefZOzdr8p7bIr2eE8s1F3NaRUjkfqTbFnAhMt9BsfhX04eIyH6Ek&usqp=CAU" width="250" height="250" />
 <img src="https://render.fineartamerica.com/images/rendered/medium/print/8/6.5/break/images/artworkimages/medium/1/the-starry-night-vincent-van-gogh.jpg" width="250" height="250" />
 ## result:
