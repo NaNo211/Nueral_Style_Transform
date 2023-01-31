@@ -27,7 +27,7 @@
 9. 1 x Dense layer of 4096 units
 10. 1 x Dense layer of 4096 units
 11. 1 x Dense Softmax layer of 2 units
-<img src="https://miro.medium.com/max/1400/1*NNifzsJ7tD2kAfBXt3AzEg.png" width="200" height="400" />
+<img src="https://miro.medium.com/max/1400/1*NNifzsJ7tD2kAfBXt3AzEg.png" width="500" height="500" />
 
 ## dataset:
 ### it's from [best artwork all time](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time=250x250) 
