@@ -27,12 +27,12 @@
 9. 1 x Dense layer of 4096 units
 10. 1 x Dense layer of 4096 units
 11. 1 x Dense Softmax layer of 2 units
-![image](https://miro.medium.com/max/1400/1*NNifzsJ7tD2kAfBXt3AzEg.png)
+![image](https://miro.medium.com/max/1400/1*NNifzsJ7tD2kAfBXt3AzEg.png =250x250)
 
 ## dataset:
-### it's from [best artwork all time](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time) 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52aVMnLFT-EF2JZUefZOzdr8p7bIr2eE8s1F3NaRUjkfqTbFnAhMt9BsfhX04eIyH6Ek&usqp=CAU)
-![image](https://render.fineartamerica.com/images/rendered/medium/print/8/6.5/break/images/artworkimages/medium/1/the-starry-night-vincent-van-gogh.jpg)
+### it's from [best artwork all time](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time =250x250) 
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52aVMnLFT-EF2JZUefZOzdr8p7bIr2eE8s1F3NaRUjkfqTbFnAhMt9BsfhX04eIyH6Ek&usqp=CAU=250x250)
+![image](https://render.fineartamerica.com/images/rendered/medium/print/8/6.5/break/images/artworkimages/medium/1/the-starry-night-vincent-van-gogh.jpg=250x250)
 ## result:
   
 
