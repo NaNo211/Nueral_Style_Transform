@@ -37,5 +37,8 @@
 ### after 1000 epoch the accuracy reached 70
 <img src=https://github.com/NaNo211/Nueral_Style_Transform/blob/main/images/output.jpeg width="250" height="250" /> <br> + </br> <img src=https://github.com/NaNo211/Nueral_Style_Transform/blob/main/images/outputt.jpeg width="250" height="250" /> <br> = </br> <img src=https://github.com/NaNo211/Nueral_Style_Transform/blob/main/images/output.png width="250" height="250" />
 
+## output
+### the next step is that we will implement the algorithm into an api that take capture image of a person and then generate a new style with his/her chosen style and print it.
+### For any information contact nadaSamir@student.aast.edu or nourmorse21@gmail.com.
 
 
