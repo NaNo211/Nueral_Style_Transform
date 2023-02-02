@@ -34,7 +34,7 @@
 ### it contain best artwork of all time from famous artists
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52aVMnLFT-EF2JZUefZOzdr8p7bIr2eE8s1F3NaRUjkfqTbFnAhMt9BsfhX04eIyH6Ek&usqp=CAU" width="250" height="250" /><img src="https://render.fineartamerica.com/images/rendered/medium/print/8/6.5/break/images/artworkimages/medium/1/the-starry-night-vincent-van-gogh.jpg" width="250" height="250" />
 ## result
-### after 1000 epoch the accuracy reached 60 precent
+### after 1000 epoch the accuracy reached 70 precent
 <img src=https://github.com/NaNo211/Nueral_Style_Transform/blob/main/images/output.jpeg width="250" height="250" /> <br> + </br> <img src=https://github.com/NaNo211/Nueral_Style_Transform/blob/main/images/outputt.jpeg width="250" height="250" /> <br> = </br> <img src=https://github.com/NaNo211/Nueral_Style_Transform/blob/main/images/output.png width="250" height="250" />
 
 ## Output
