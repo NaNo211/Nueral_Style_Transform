@@ -40,6 +40,7 @@ It contain best artwork of all time from famous artists
 
 ## Result
 After 1000 epoch the accuracy reached 70 precent
+
 <img src=https://github.com/NaNo211/Nueral_Style_Transform/blob/main/images/output.jpeg width="250" height="250" /> <br> + </br> 
 <img src=https://github.com/NaNo211/Nueral_Style_Transform/blob/main/images/outputt.jpeg width="250" height="250" /> <br> = </br> 
 <img src=https://github.com/NaNo211/Nueral_Style_Transform/blob/main/images/output.png width="250" height="250" />
